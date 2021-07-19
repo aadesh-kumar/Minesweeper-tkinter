@@ -1,2 +1,5 @@
 # Minesweeper-tkinter
-Minesweeper game in Python and Tkinter GUI
+
+Minesweeper developed in Python and Tkinter GUI
+
+Based on Original Microsoft Minesweeper game
